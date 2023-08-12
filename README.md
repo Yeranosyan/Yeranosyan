@@ -6,4 +6,10 @@
 
 📬 Let's connect and collaborate! Feel free to reach out to me via email at karlenovich@yahoo.com or connect with me on LinkedIn www.linkedin.com/in/gagik-yeranosyan
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts,py,tailwind,bootstrap,babel,postman,netlify,django,firebase,express,nextjs,nodejs,github,git,vscode)
+![My Skills]()
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,py,tailwind,bootstrap,babel,postman,netlify,django,firebase,express,nextjs,nodejs,github,git,vscode" />
+  </a>
+</p>
