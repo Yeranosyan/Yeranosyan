@@ -7,8 +7,11 @@
 📬 Let's connect and collaborate! Feel free to reach out to me via Email or connect with me on LinkedIn 
 
 📬 Let's connect and collaborate! Feel free to reach out to me via email at gagik.dev@example.com or connect with me on:
-<a href="https://www.linkedin.com/in/gagik-yeranosyan-244b50283/" target="_blank" rel="noopener noreferrer"><img src="linkedin-icon.png" alt="LinkedIn"></a>
-<a href="https://www.twitter.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="yahoo-icon.png" alt="Twitter"></a>
+📬 Let's connect and collaborate! Feel free to reach out to me via email at [gagik.dev@yahoo.com](mailto:gagik.dev@yahoo.com) or connect with me on:
+[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://example.com/twitter-icon.png)](https://www.twitter.com/your-profile)
+
+Happy coding! 🎉
 
 
 <p align="center">
