@@ -19,6 +19,6 @@ Looking forward to connecting and creating together! 🤝
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,py,tailwind,bootstrap,babel,postman,netlify,django,firebase,express,nextjs,nodejs,github,git,vscode" />
   </a>
 </p>
