@@ -4,12 +4,15 @@
 
 🌐 Currently, you can find me exploring the latest web technologies, diving deep into JavaScript frameworks, and sharpening my skills in responsive design and performance optimization.
 
-📬 Let's connect and collaborate! Feel free to reach out to me via email at karlenovich@yahoo.com!
+Feel free to explore my repositories to see more of my work!
 
+## Let's Connect!
 
+I'm always eager to connect with like-minded individuals. If you share the same passion for coding and technology, let's team up and build something amazing together. Connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/gagik-yeranosyan-244b50283/)) . You can also reach out via email at [karle](mailto:karlenovich@yahoo.com).
 
+Looking forward to connecting and creating together! 🤝
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,py,tailwind,bootstrap,babel,postman,netlify,django,firebase,express,nextjs,nodejs,github,git,vscode" />
+    <img src="https://skillicons.dev/icons?novich@yahoo.comi=html,css,js,react,redux,ts,py,tailwind,bootstrap,babel,postman,netlify,django,firebase,express,nextjs,nodejs,github,git,vscode" />
   </a>
 </p>
