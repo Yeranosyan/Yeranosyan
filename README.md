@@ -15,3 +15,10 @@ Looking forward to connecting and creating together! 🤝
     <img src="https://skillicons.dev/iconsi=html,css,js,react,redux,ts,py,tailwind,bootstrap,babel,postman,netlify,django,firebase,express,nextjs,nodejs,github,git,vscode" />
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
