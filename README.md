@@ -4,9 +4,6 @@
 
 🌐 Currently, you can find me exploring the latest web technologies, diving deep into JavaScript frameworks, and sharpening my skills in responsive design and performance optimization.
 
-📬 Let's connect and collaborate! Feel free to reach out to me via Email or connect with me on LinkedIn 
-
-📬 Let's connect and collaborate! Feel free to reach out to me via email at gagik.dev@example.com or connect with me on:
 📬 Let's connect and collaborate! Feel free to reach out to me via email at (mailto:karlenovich@yahoo.com) or connect with me on:
 [![LinkedIn](https://example.com/linkedin-icon.png)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gagik-yeranosyan-244b50283/))
 
