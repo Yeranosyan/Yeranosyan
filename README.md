@@ -4,9 +4,7 @@
 
 🌐 Currently, you can find me exploring the latest web technologies, diving deep into JavaScript frameworks, and sharpening my skills in responsive design and performance optimization.
 
-📬 Let's connect and collaborate! Feel free to reach out to me via email at karlenovich@yahoo.com or connect with me on LinkedIn www.linkedin.com/in/gagik-yeranosyan
-
-![My Skills]()
+📬 Let's connect and collaborate! Feel free to reach out to me via Email or connect with me on LinkedIn 
 
 <p align="center">
   <a href="https://skillicons.dev">
