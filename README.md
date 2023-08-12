@@ -6,6 +6,11 @@
 
 📬 Let's connect and collaborate! Feel free to reach out to me via Email or connect with me on LinkedIn 
 
+📬 Let's connect and collaborate! Feel free to reach out to me via email at gagik.dev@example.com or connect with me on:
+<a href="https://www.linkedin.com/in/gagik-yeranosyan-244b50283/" target="_blank" rel="noopener noreferrer"><img src="linkedin-icon.png" alt="LinkedIn"></a>
+<a href="https://www.twitter.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="yahoo-icon.png" alt="Twitter"></a>
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,py,tailwind,bootstrap,babel,postman,netlify,django,firebase,express,nextjs,nodejs,github,git,vscode" />
