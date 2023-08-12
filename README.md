@@ -6,7 +6,6 @@
 
 Feel free to explore my repositories to see more of my work!
 
-## Let's Connect!
 
 I'm always eager to connect with like-minded individuals. If you share the same passion for coding and technology, let's team up and build something amazing together. Connect with me on [LinkedIn](https://www.linkedin.com/in/gagik-yeranosyan-244b50283/) . You can also reach out via email at [karlenovich@yahoo.com](mailto:karlenovich@yahoo.com).
 
