@@ -7,9 +7,8 @@
 📬 Let's connect and collaborate! Feel free to reach out to me via Email or connect with me on LinkedIn 
 
 📬 Let's connect and collaborate! Feel free to reach out to me via email at gagik.dev@example.com or connect with me on:
-📬 Let's connect and collaborate! Feel free to reach out to me via email at [gagik.dev@yahoo.com](mailto:gagik.dev@yahoo.com) or connect with me on:
-[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://example.com/twitter-icon.png)](https://www.twitter.com/your-profile)
+📬 Let's connect and collaborate! Feel free to reach out to me via email at (mailto:karlenovich@yahoo.com) or connect with me on:
+[![LinkedIn](https://example.com/linkedin-icon.png)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gagik-yeranosyan-244b50283/))
 
 Happy coding! 🎉
 
