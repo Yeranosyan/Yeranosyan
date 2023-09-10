@@ -11,7 +11,8 @@
 📬 I'm always eager to connect with like-minded individuals. If you share the same passion for coding and technology, let's team up and build something amazing together. Connect with me on [LinkedIn](https://www.linkedin.com/in/gagik-yeranosyan-244b50283/) . You can also reach out via email at [karlenovich@yahoo.com](mailto:karlenovich@yahoo.com).
 
 Looking forward to connecting and creating together! 🤝🏼
-<p align="center">
+
+<p> align="center">
    <a href="https://www.linkedin.com/in/gagik-yeranosyan-244b50283/" target="_blank">
     <img src="https://skillicons.dev/icons? 
       i=html,css,js,react,redux,ts,py,vite,tailwind,bootstrap,figma,babel,postman,netlify,django,firebase,mysql,express,nextjs,nodejs,github,git,vscode" target="_blank"/>
