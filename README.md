@@ -1,4 +1,4 @@
-👋🏼 Hey there, I'm Gagik Yeranosyan, a passionate software developer based in Vancouver, Canada. 🇨🇦
+👋🏼 Hey there, I'm Gagik Yeranosyan, a passionate software developer based in Vancouver, Canada.
 
 💻 Always learning and evolving in the world of programming, I thrive on crafting elegant and efficient solutions to real-world challenges. From front-end magic to back-end wizardry, I'm committed to creating seamless, user-friendly experiences that leave a positive impact.
 
