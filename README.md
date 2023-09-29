@@ -8,7 +8,7 @@
 
 ## Let's Connect!
 
-📬 I'm always eager to connect with like-minded individuals. If you share the same passion for coding and technology, let's team up and build something amazing together. Connect with me on [LinkedIn](https://www.linkedin.com/in/gagik-yeranosyan-244b50283/) . You can also reach out via email at [karlenovich@yahoo.com](mailto:karlenovich@yahoo.com).
+📬 I'm always eager to connect with like-minded individuals. If you share the same passion for coding and technology, let's team up and build something amazing together. Connect with me on [LinkedIn](https://www.linkedin.com/in/gagik-yeranosyan-244b50283/) . You can also reach out via email at [gagik.yeranosyan14@gmail.com](mailto:gagik.yeranosyan14@gmail.com).
 
 Looking forward to connecting and creating together! 🤝🏼
 
