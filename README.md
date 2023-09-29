@@ -14,7 +14,7 @@ Looking forward to connecting and creating together! 🤝🏼
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gagik-yeranosyan-244b50283/" target="_blank">
-     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,py,django,mysql,babel,vite,tailwind,bootstrap,figma,postman,netlify,firebase,express,nextjs,nodejs,github,git,vscode" target="_blank"/>
+     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,py,django,mysql,babel,vite,tailwind,bootstrap,figma,postman,netlify,nextjs,nodejs,github,git,vscode" target="_blank"/>
    </a>
   </a>
 </p>
