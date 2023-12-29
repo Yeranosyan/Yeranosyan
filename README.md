@@ -1,4 +1,4 @@
-Hey there, I'm Gagik Yeranosyan, a Full-Stack developer from Vancouver, Canada. <br>
+Hey there, I'm Gagik Yeranosyan, a Full-Stack developer based in Vancouver, Canada. <br>
 Specializing in JS, React, Next.js, TypeScript, Python, and APIs, I also handle testing using tools like Insomnia and Postman. I'm happy to assist someone in using libraries or explaining concepts. Working with various libraries for functionality and styling, I thrive on finding diverse solutions for code challenges and am passionate about my work. Continuously developing my skills, I actively seek open-source projects to collaborate on. I would be delighted to cooperate and contribute. Let's create something together! I have a genuine love for collaborative work!
 
 ## Let's Connect!
