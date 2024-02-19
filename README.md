@@ -9,7 +9,7 @@ Looking forward to connecting and creating together!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gagik-yeranosyan-244b50283/" target="_blank">
-     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,py,django,sqlite,mysql,mongodb,prisma,babel,vite,sass,tailwind,bootstrap,figma,postman,netlify,vercel,nextjs,nodejs,github,git,vscode" target="_blank"/>
+     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,cs,dotnet,py,django,sqlite,mysql,mongodb,prisma,babel,vite,sass,materialui,tailwind,bootstrap,figma,postman,netlify,vercel,nextjs,nodejs,github,git,visualstudio,vscode" target="_blank"/>
    </a>
   </a>
 </p>
