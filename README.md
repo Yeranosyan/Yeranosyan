@@ -1,5 +1,6 @@
-Hey there, I'm Gagik Yeranosyan, a Software developer based in Vancouver, Canada. <br>
-Specializing in JS, React, Next.js, TypeScript, Python, and APIs, I also handle testing using tools like Insomnia and Postman. I'm happy to assist someone in using libraries or explaining concepts. Working with various libraries for functionality and styling, I thrive on finding diverse solutions for code challenges and am passionate about my work. Continuously developing my skills, I actively seek open-source projects to collaborate on. I would be delighted to cooperate and contribute. Let's create something together! I have a genuine love for collaborative work!
+Hey there, I'm Gagik Yeranosyan, a Software Engineer. <br>
+Proficient in JavaScript, React, Next.js, TypeScript, Python, Django, Node.js, & Express, ASP.NET Core Web API.
+I am a certified developer who runs a YouTube channel where I teach programmers and share useful content. Feel free to message me if you encounter any problems, I'm here to help you disassemble any issues and teach you how to write competent and professional code.
 
 ## Let's Connect!
 
