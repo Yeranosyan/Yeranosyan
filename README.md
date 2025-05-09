@@ -1,5 +1,5 @@
 Hey there, I'm Gagik Yeranosyan, a Software Engineer. <br>
-Proficient in JavaScript, React, Next.js, TypeScript, Python, Django, Node.js, & Express, ASP.NET Core Web API, Generative AI.
+Proficient in JavaScript, Angular, React, Next.js, TypeScript, Node.js, & Express, ASP.NET Core Web API.
 I am a certified developer who runs a YouTube channel where I teach programmers and share useful content. Feel free to message me if you encounter any problems, I'm here to help you disassemble any issues and teach you how to write competent and professional code.
 
 ## Let's Connect!
