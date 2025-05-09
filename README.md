@@ -31,6 +31,10 @@ If you're working on something meaningful or want to grow together, feel free to
   </a>
 </p>
 
+---
+
+## 🛠️ My Tech Toolbox
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,angular,ts,redux,cs,dotnet,py,django,npm,azure,sqlite,mysql,mongodb,prisma,babel,materialui,tailwind,bootstrap,figma,postman,netlify,vercel,nextjs,nodejs,github,git,visualstudio,vscode,bitbucket,stackoverflow" target="_blank"/>
 </p>
