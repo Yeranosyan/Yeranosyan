@@ -14,7 +14,6 @@ and how I can deliver the best possible experience.
 My goal is to improve every day — by listening to customer needs, learning from feedback,  
 and constantly aiming to make the product better and more impactful.
 
----
 
 ## 🤝 Let's Connect!
 
@@ -31,7 +30,6 @@ If you're working on something meaningful or want to grow together, feel free to
   </a>
 </p>
 
----
 
 ## 🛠️ My Tech Toolbox
 
