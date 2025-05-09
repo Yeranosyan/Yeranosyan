@@ -23,7 +23,7 @@ If you're working on something meaningful or want to grow together, feel free to
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gagik-yeranosyan-244b50283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
   </a>
   &nbsp;
   <a href="mailto:gagik.yeranosyan14@gmail.com" target="_blank">
