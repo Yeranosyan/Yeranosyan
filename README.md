@@ -27,7 +27,7 @@ If you're working on something meaningful or want to grow together, feel free to
   </a>
   &nbsp;
   <a href="mailto:gagik.yeranosyan14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank"/>
   </a>
 </p>
 
