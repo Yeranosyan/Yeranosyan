@@ -3,7 +3,7 @@
 
 # 👋 Hey there, I'm Gagik Yeranosyan
 
-I'm Gagik Yeranosyan, a Software Engineer focused on building high-quality business applications.  
+I'm Software Engineer focused on building high-quality business applications.  
 Skilled in **JavaScript, Angular, React, Next.js, TypeScript, Node.js, Express**, and **ASP.NET Core Web API**.  
 I’m a certified developer and also run a YouTube channel where I share tutorials and help developers grow their skills.
 
