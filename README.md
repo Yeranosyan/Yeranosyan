@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hey there, I'm Gagik Yeranosyan
+# Hey there, I'm Gagik Yeranosyan
 
 I'm Software Engineer focused on building high-quality business applications.  
 Skilled in **JavaScript, Angular, React, Next.js, TypeScript, Node.js, Express**, and **ASP.NET Core Web API**.  
@@ -15,7 +15,7 @@ My goal is to improve every day — by listening to customer needs, learning fro
 and constantly aiming to make the product better and more impactful.
 
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always open to collaborating on projects and sharing knowledge.  
 If you're working on something meaningful or want to grow together, feel free to reach out.
@@ -31,7 +31,7 @@ If you're working on something meaningful or want to grow together, feel free to
 </p>
 
 
-## 🛠️ My Tech Toolbox
+## Toolbox
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,angular,ts,redux,cs,dotnet,py,django,npm,azure,sqlite,mysql,mongodb,prisma,babel,materialui,tailwind,bootstrap,figma,postman,netlify,vercel,nextjs,nodejs,github,git,visualstudio,vscode,bitbucket,stackoverflow" target="_blank"/>
