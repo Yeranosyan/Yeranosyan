@@ -17,9 +17,6 @@ and constantly aiming to make the product better and more impactful.
 
 ## Let's Connect!
 
-I'm always open to collaborating on projects and sharing knowledge.  
-If you're working on something meaningful or want to grow together, feel free to reach out.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gagik-yeranosyan-244b50283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
