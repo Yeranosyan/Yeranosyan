@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=280&text=GAGIK%20YERANOSYAN&fontSize=64&fontColor=6B2510&fontAlignY=44&desc=SENIOR%20SOFTWARE%20ENGINEER&descSize=17&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=280&text=Gagik%20Yeranosyan&fontSize=62&fontColor=6B2510&fontAlignY=44&desc=Senior%20Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%206%2B%20years&descSize=17&descAlignY=62" width="100%" />
 
 <div align="center">
 
@@ -9,27 +9,32 @@
 
 <br/><br/>
 
-I build and maintain business applications end to end — system architecture,<br/>
-API design, and the interfaces that sit on top of them.
+Senior software engineer with 6+ years building full-stack business applications<br/>
+across the JavaScript and .NET ecosystems. I take features from architecture and<br/>
+API design through to production, and increasingly ship AI-powered functionality<br/>
+into real products.
 
 </div>
 
-<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=100&text=%20" width="3" height="17" />&nbsp;&nbsp;Approach</h3>
+<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=100&text=%20" width="3" height="17" />&nbsp;&nbsp;What I do</h3>
 
 <div align="center">
 
-**Define before building**<br/>
-Requirements, users, and success criteria are documented before implementation starts.
+**Full-stack delivery**<br/>
+React, Next.js, and Angular front ends backed by Node.js and ASP.NET Core Web API<br/>
+services — owned end to end, from data model to deployed interface.
 
-**Maintainable by default**<br/>
-Typed, tested, and documented. Systems the next engineer can read without a handover.
+**AI product engineering**<br/>
+RAG pipelines, vector search, and function-calling workflows built on the OpenAI,<br/>
+Anthropic, and Gemini APIs and shipped as features, not demos.
 
-**Iterate on evidence**<br/>
-Releases are measured, feedback is triaged, and the next cycle is scoped from the results.
+**Teaching and mentoring**<br/>
+I run a YouTube channel breaking down real engineering problems and mentor<br/>
+developers working toward mid- and senior-level roles.
 
 </div>
 
-<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=100&text=%20" width="3" height="17" />&nbsp;&nbsp;Stack</h3>
+<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=100&text=%20" width="3" height="17" />&nbsp;&nbsp;Tech stack</h3>
 
 <div align="center">
 
@@ -45,38 +50,23 @@ Node.js · Express · ASP.NET Core Web API · Django
 **Data**<br/>
 PostgreSQL · MySQL · MongoDB · SQLite · Prisma
 
-**Platform**<br/>
-Azure · Docker · GitHub Actions · Vercel · Netlify
+**AI &amp; LLM**<br/>
+OpenAI · Anthropic · Gemini · LangChain · Vercel AI SDK
 
-**Tooling**<br/>
-Git · GitHub · Bitbucket · Postman · Figma · VS Code
-
-</div>
-
-<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=100&text=%20" width="3" height="17" />&nbsp;&nbsp;AI engineering</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/RAG_pipelines-1C1C1E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_search-1C1C1E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Function_calling-1C1C1E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streaming_UIs-1C1C1E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Evaluation-1C1C1E?style=for-the-badge" />
-
-Built against the OpenAI, Anthropic, and Google Gemini APIs<br/>
-using LangChain and the Vercel AI SDK.
+**Platform &amp; tooling**<br/>
+Azure · Docker · GitHub Actions · Vercel · Netlify · Git · Figma
 
 </div>
 
-<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=100&text=%20" width="3" height="17" />&nbsp;&nbsp;Activity</h3>
+<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=D6512A&height=100&text=%20" width="3" height="17" />&nbsp;&nbsp;GitHub activity</h3>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=REPLACE-ME&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&cache_seconds=86400&bg_color=141416&title_color=D6512A&text_color=BFBFBF&icon_color=D6512A" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE-ME&layout=compact&langs_count=8&hide_title=true&hide_border=true&border_radius=8&cache_seconds=86400&bg_color=141416&title_color=D6512A&text_color=BFBFBF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Yeranosyan&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&cache_seconds=86400&bg_color=141416&title_color=D6512A&text_color=BFBFBF&icon_color=D6512A" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeranosyan&layout=compact&langs_count=8&hide_title=true&hide_border=true&border_radius=8&cache_seconds=86400&bg_color=141416&title_color=D6512A&text_color=BFBFBF" />
 
 <br/><br/>
 
-Open to collaboration on ambitious product work.
+Open to senior and lead engineering roles, and to collaboration on ambitious product work.
 
 </div>
